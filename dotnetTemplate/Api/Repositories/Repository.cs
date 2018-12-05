@@ -9,7 +9,7 @@ namespace Api.Repositories
     {
         public string GetAll()
         {
-            return "Data from database";
+            return "Get data from database.";
         }
     }
 }
